@@ -1,15 +1,3 @@
-# ****************************************************************************
-# CMPT-318 Group Assignment 1
-# Group: 318programmers_Grp1
-# Members:
-# - Adam Bahrami
-# - Bevan Nutakor
-# - James Park
-# CMPT-318 Group Assignment 1
-# ****************************************************************************
-
-# SET UP
-# ------------------------------------------------
 wd <- getwd()
 setwd(wd)
 library(ggplot2)
